@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ananda Sai A
 ====================================================================================================================================
 
-Engineer
+Explorer
 --------
 
 I love building stuff :) I'm a developer with a passion for building whatever comes to mind, from full-stack web applications to cutting-edge machine learning models and smart contract systems. I love working across the stack and solving complex problems that require me to tap into my diverse skill set. With experience in both front-end and back-end development, I'm comfortable working with a variety of languages and tools, from Python and React to Solidity and more. I'm particularly excited about the possibilities of AI and NLP, and I enjoy exploring the intersection of people, product, and data to build solutions that are both user-friendly and technologically advanced. Let's collaborate and build something amazing together!
