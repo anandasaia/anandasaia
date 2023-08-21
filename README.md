@@ -8,7 +8,7 @@ I love building stuff :) I'm a developer with a passion for building whatever co
 
 * 🌍  I'm based in Kerala, India
 * ✉️  You can contact me at [anandu251@gmail.com](mailto:anandu251@gmail.com)
-* 🧠  I'm learning Rust, Polkadot, NLP
+* 🧠  I'm learning Rust, NLP
 
 <a href="https://www.twitter.com/anandasaia" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/anandasaia?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
