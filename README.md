@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Explorer
 --------
 
-Currently building the Internet of Agents.
+Building the Internet of Agents!
 
 * 🌍  I'm based in Kerala, India
 * ✉️  You can contact me at [anandu251@gmail.com](mailto:anandu251@gmail.com)
