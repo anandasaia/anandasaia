@@ -4,11 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Explorer
 --------
 
-I love building stuff :) I'm a developer with a passion for building whatever comes to mind, from full-stack web applications to cutting-edge machine-learning models and smart contract systems. I love working across the stack and solving complex problems that require me to tap into my diverse skill set. With experience in both front-end and back-end development, I'm comfortable working with a variety of languages and tools, from Python and React to Solidity and more. I'm particularly excited about the possibilities of AI and NLP, and I enjoy exploring the intersection of people, products, and data to build solutions that are both user-friendly and technologically advanced. Let's collaborate and build something amazing together!
+Currently building the Internet of Agents.
 
 * 🌍  I'm based in Kerala, India
 * ✉️  You can contact me at [anandu251@gmail.com](mailto:anandu251@gmail.com)
-* 🧠  I'm learning Rust, NLP
 
 <a href="https://www.twitter.com/anandasaia" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/anandasaia?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
